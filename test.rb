@@ -23,3 +23,11 @@ case age
   else
     'Cool, you have an age!'
 end
+
+def menu
+  puts 'Menu'
+  puts '1: Show Name'
+  puts '2: Show Age'
+  puts '3: Show Info'
+  puts '4: Exit'
+end
